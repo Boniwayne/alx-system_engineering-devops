@@ -1,2 +1,2 @@
 !#/bin/bash
-Working on shell basics
+./README.md
