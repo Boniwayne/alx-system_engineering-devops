@@ -1,1 +1,2 @@
-Working on shell and basics
+!#/bin/bash
+Working on shell basics
