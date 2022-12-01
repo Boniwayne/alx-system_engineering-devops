@@ -1,0 +1,2 @@
+#!/bin/bash
+su chgrp vincent staff
